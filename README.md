@@ -38,12 +38,12 @@ variables and pollution.
 patterns. 
 Evaluation Metrics 
 The evaluation of these models will be based on: 
-• Mean Absolute Error 
-• R2 Score 
-• RMSE 
+<br>• Mean Absolute Error
+<br>• R2 Score 
+<br>• RMSE 
 Note: The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
-Risks and Limitations 
-BOLUWATIFE OGBONNA 
+
+<br>Risks and Limitations <br>
 Sensor location: Data will be limited to specific locations in Lagos  
 Seasonality: December is typically the start of harmattan as well as Christmas 
 holidays -popularly known as Detty December in Lagos. This affects the humidity 
