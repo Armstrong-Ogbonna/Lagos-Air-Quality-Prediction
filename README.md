@@ -17,7 +17,8 @@ effectively weaken it. Some harmful effects are:
 1. Penetrating deep into the lungs 
 2. Entering the bloodstream 
 3. Increasing risk of asthma, heart disease, and respiratory illness 
-Objectives 
+
+<br>Objectives<br>
 The objective is to model and forecast air quality in Lagos to support public health 
 and policy decisions. 
 This entails: 
