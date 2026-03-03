@@ -37,7 +37,7 @@ variables and pollution.
 2. Random Forest: To capture complex, non-linear spikes and human activity 
 patterns. 
 
-<br>**Evaluation Metrics**
+<br>**Evaluation Metrics**<br>
 The evaluation of these models will be based on: 
 <br>• Mean Absolute Error
 <br>• R2 Score 
