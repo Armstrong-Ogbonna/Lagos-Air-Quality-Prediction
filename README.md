@@ -57,4 +57,4 @@ By accurately forecasting air quality proactive measures can be taken to:
 • support public health planning,  
 • influence housing and industrial policies, 
 <br>• improve standard of living in Lagos residents
-• and improve the overall air quality. 
+<br>• and improve the overall air quality. 
