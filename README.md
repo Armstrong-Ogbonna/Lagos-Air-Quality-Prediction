@@ -9,7 +9,7 @@ culprit of air pollution are PM2.5 particles. PM2.5 levels refer to the concentr
 of fine particulate matter in the air that has a diameter of 2.5 micrometers or 
 smaller. PM2.5 emissions are found in vehicle emissions, combustion of gasoline, 
 oil, diesel fuel or wood, industrial machinery, and more. 
-Why is this important to know? 
+<br>Why is this important to know? 
 Due to its microscopic size, PM2.5 levels can bypass the body’s defense and 
 effectively weaken it. Some harmful effects are: 
 1. Penetrating deep into the lungs 
@@ -30,7 +30,7 @@ This analysis will be conducted using air quality data from Lagos in December,
 Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
 archive-lagos) 
 OpenAFRICA is Africa’s largest volunteer driven open data platform 
-Models Used: 
+**<br>Models Used:<br>**
 1. Linear Regression: To quantify the direct relationship between weather 
 variables and pollution. 
 2. Random Forest: To capture complex, non-linear spikes and human activity 
