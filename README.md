@@ -1,7 +1,5 @@
-# My-Project
-BOLUWATIFE OGBONNA 
-Data Science Capstone Project – Lagos 
-Air Quality 
+# Lagos-Air-Quality-Prediction
+
 Problem Statement 
 Clean air is a critical component of any society's standard of living, and Lagos is 
 no different. However, with the rise of industrialization and population growth this 
