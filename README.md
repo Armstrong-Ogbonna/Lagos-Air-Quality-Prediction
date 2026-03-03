@@ -47,7 +47,7 @@ The evaluation of these models will be based on:
 **<br>Note:** The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
 
 ## <br>Risks and Limitations
-<br><ins>Sensor location</ins>: Data will be limited to specific locations in Lagos  
+**<br><ins>Sensor location</ins>**: Data will be limited to specific locations in Lagos  
 <ins>Seasonality</ins>: December is typically the start of harmattan as well as Christmas 
 holidays-popularly known as Detty December in Lagos. This affects the humidity 
 of the data. 
