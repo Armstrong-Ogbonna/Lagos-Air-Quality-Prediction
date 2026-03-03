@@ -53,8 +53,8 @@ factors such as traffic data, vehicle types, industrial policy changes, or land 
 changes. 
 <br>Why this matters 
 By accurately forecasting air quality proactive measures can be taken to:  
-<br>• mitigate pollution,  
-<br>• support public health planning,  
-<br>• influence housing and industrial policies, 
+• mitigate pollution,  
+• support public health planning,  
+• influence housing and industrial policies, 
 <br>• improve standard of living in Lagos residents
 • and improve the overall air quality. 
