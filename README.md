@@ -24,7 +24,7 @@ This entails:
 <br>• Utilize Machine Learning to predict PM2.5 values. <br>
 • Analyze the key drivers and temporal patterns that propagate dangerous 
 pollution levels. 
-<br>**Dataset**
+<br>**Dataset**<br>
 This analysis will be conducted using air quality data from Lagos in December, 
 2025. 
 Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
