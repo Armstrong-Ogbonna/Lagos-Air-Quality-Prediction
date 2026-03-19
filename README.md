@@ -62,7 +62,6 @@ By accurately forecasting air quality proactive measures can be taken to:
 <br>• improve standard of living in Lagos residents
 <br>• and improve the overall air quality. 
 
-## <br>Update<br>
-After analysis it became apparent that one month was able to approriately predict results due the skewness and seasonal trends taking place in a single month. Thus, this project was scaled up to the whole year of 2025 and more more locations: Victoria Island and Elegbo
+
 
 
